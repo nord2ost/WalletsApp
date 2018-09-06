@@ -1,10 +1,14 @@
 const type = {
-  base: 'Avenir-Book',
+  base: 'System',
   bold: 'Avenir-Black',
   emphasis: 'HelveticaNeue-Italic'
 }
 
 const size = {
+  title: 13,
+  item: 13,
+  totalUSD: 30,
+  totalBTC: 18,
   h1: 38,
   h2: 34,
   h3: 30,

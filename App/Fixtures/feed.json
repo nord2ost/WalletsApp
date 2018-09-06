@@ -1,0 +1,35 @@
+{
+	"total":{
+		"USD": "39.584",
+		"BTC": "7.251332",
+		"change" : "3.55"	
+		},
+	"balance" :[
+		{
+			"currency": "BTC",
+			"inCurrency": "3.529020",
+			"inUSD": "19.153",
+			"rate": "5.441",
+			"change": "4.32",
+			"lastUpdate" : "2018-09-01T20:35:29+00:00"
+
+		},
+		{
+			"currency": "XRP",
+			"inCurrency": "1911.633681",
+			"inUSD": "859",
+			"rate": "0.45",
+			"change": "-13.55",
+			"lastUpdate" : "2018-09-01T16:28:19+00:00"
+
+		},
+		{
+			"currency": "ETH",
+			"inCurrency": "12.633681",
+			"inUSD": "4.822",
+			"rate": "401",
+			"change": "3.97",
+			"lastUpdate" : "2018-09-01T18:16:59+00:00"
+		}
+	]
+}
